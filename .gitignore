@@ -1,5 +1,6 @@
 #Files to ignore
 NYC_CitiBike_Challenge_starter_code.ipynb
+clean-201908-citibike-tripdata.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
