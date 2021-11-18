@@ -8,17 +8,17 @@ The purpose of this analysis is to create visualizations that can provide a pote
 
 ## Results:
 Screenshots of the projects and brief explanation of the charts are given below. 
-![Screenshot 1.png](/Resources/Screenshot 1.png)
+![Screenshot 1.png](https://github.com/hishamdewan/bikesharing/blob/main/Resources/Screenshot%201.png)
 
-![Screenshot 2.png](/Resources/Screenshot 2.png)
+![Screenshot 2.png](https://github.com/hishamdewan/bikesharing/blob/main/Resources/Screenshot%202.png)
 
-![Screenshot 3.png](/Resources/Screenshot 3.png)
+![Screenshot 3.png](https://github.com/hishamdewan/bikesharing/blob/main/Resources/Screenshot%203.png)
 
-![Screenshot 4.png](/Resources/Screenshot 4.png)
+![Screenshot 4.png](https://github.com/hishamdewan/bikesharing/blob/main/Resources/Screenshot%204.png)
 
-![Screenshot 5.png](/Resources/Screenshot 5.png)
+![Screenshot 5.png](https://github.com/hishamdewan/bikesharing/blob/main/Resources/Screenshot%205.png)
 
-![Screenshot 6.png](/Resources/Screenshot 6.png)
+![Screenshot 6.png](https://github.com/hishamdewan/bikesharing/blob/main/Resources/Screenshot%206.png)
 
 ## Summary:
 The analysis shows bike sharing is a popular mode of transport with approximately 2.3mn rides in 2019. Bike sharing tends to be popular in tourist heavy areas and during busy commuting hours (i.e. 7-9am and 5-7pm). The analysis shows vast majority of trips are short (less than one hour) and subscription service leads to significant increase in ridership. In addition, the service is more frequently used by men than women. 
